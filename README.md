@@ -1,1 +1,1 @@
-# ML-minihackthon-tutorial
+# ML Mini-Hackthon Tutorial
